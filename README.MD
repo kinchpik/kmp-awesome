@@ -194,6 +194,11 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![Maven Central](https://img.shields.io/maven-central/v/org.hildan.krossbow/krossbow-stomp-core)](https://central.sonatype.com/artifact/org.hildan.krossbow/krossbow-stomp-core)
 > A coroutine-based Kotlin multi-platform WebSocket client and STOMP 1.2 client over web sockets.
 
+[Kuicksilver](https://github.com/kuicksilver/kuicksilver) - QUIC and HTTP/3
+[![GitHub Repo stars](https://img.shields.io/github/stars/kuicksilver/kuicksilver?style=flat)](https://github.com/kuicksilver/kuicksilver)
+[![Maven Central](https://img.shields.io/maven-central/v/io.kuicksilver/kuicksilver-quic)](https://central.sonatype.com/artifact/io.kuicksilver/kuicksilver-quic)
+> Kotlin Multiplatform network stack: QUIC v1/v2, HTTP/3 with QPACK and TLS 1.3 over OpenSSL 3.5, with Ktor client and server engines, for JVM, Android, iOS, macOS, Linux and Windows.
+
 [MOKO SocketIo](https://github.com/icerockdev/moko-socket-io) - Socket.IO implementation
 [![GitHub Repo stars](https://img.shields.io/github/stars/icerockdev/moko-socket-io?style=flat)](https://github.com/icerockdev/moko-socket-io)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.icerock.moko/socket-io)](https://central.sonatype.com/artifact/dev.icerock.moko/socket-io)
